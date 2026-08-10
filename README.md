@@ -8,3 +8,4 @@
 | :--- | :--- |
 | **Node.js, NestJS, PostgreSQL** | [Крестики-нолики, backend](https://github.com/inoplanetyanya/tic-tac-toe-be-nestjs) |
 | **Angular, Signals, TanStack Query** | [Крестики-нолики, frontend](https://github.com/inoplanetyanya/tic-tac-toe-fe-angular) |
+| **Go** | [Морской бой, backend](https://github.com/inoplanetyanya/battleship-backend) |
