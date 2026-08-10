@@ -7,3 +7,4 @@
 | Технология / Стек | Проект и исходный код |
 | :--- | :--- |
 | **Node.js, NestJS, PostgreSQL** | [Крестики-нолики, backend](https://github.com/inoplanetyanya/tic-tac-toe-be-nestjs) |
+| **Angular, Signals, TanStack Query** | [Крестики-нолики, frontend](https://github.com/inoplanetyanya/tic-tac-toe-fe-angular) |
